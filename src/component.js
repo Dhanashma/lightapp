@@ -6,7 +6,7 @@ const Bulb = ()=>{
 return(
     <>
     <div className= {off ? 'bulb-off':'bulb-on'}> </div>
-    <div>
+    <div className='bttn'>
         <button onClick={()=> setOff(!off)}> {off? 'OFF':'ON'} </button>
     </div>
     </>

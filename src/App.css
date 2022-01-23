@@ -2,16 +2,16 @@
  
   width:270px;
   height:200px;
-  
   border-width: 4px;
   border-style:solid;
   display: flex;
-  
+
 }
 .bulb-off, .bulb-on{
 height: 55px;
 width: 55px;
 border-radius: 50%;
+
 }
 
 .bulb-off{
@@ -20,4 +20,7 @@ border-radius: 50%;
 
 .bulb-on{
   background-color: orange;
+}
+.bttn{
+  padding-top: 50%;
 }
