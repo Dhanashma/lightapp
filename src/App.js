@@ -5,7 +5,6 @@ import Bulb from './component';
 function App() {
   return (
     <div className="Light">
-      <h1>Light App</h1>
       <Bulb/>
       <Bulb/>
     </div>

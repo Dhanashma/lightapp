@@ -1,9 +1,8 @@
 .Light{
  
-  width:400px;
-  height:300px;
-  text-align: center;
-  margin-right: 300px;
+  width:270px;
+  height:200px;
+  
   border-width: 4px;
   border-style:solid;
   display: flex;
